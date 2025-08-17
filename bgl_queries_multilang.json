@@ -1,0 +1,437 @@
+{
+    "fr": {
+        "compte étudiant bgl": [
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-jeune.html",
+            "https://bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-jeunes.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/compte-epargne-jeunes.html",
+            "https://www.bgl.lu/fr/particuliers/projet-etudes/pret-etudiant-au-luxembourg.html"
+        ],
+        "plafonds carte bgl": [
+            "https://www.bgl.lu/fr/particuliers/cartes-de-paiement/difference-carte-credit-debit.html",
+            "http://bgl.lu/fr/particuliers/cartes-de-paiement/visa-classic.html",
+            "https://www.bgl.lu/fr/particuliers/cartes-de-paiement.html",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/conditions-cartes/v-pay/Conditions-d-utilisation-V-PAY-FR.pdf",
+            "https://bgl.lu/fr/particuliers/cartes-de-paiement/visa-debit.html",
+            "https://www.bgl.lu/fr/particuliers/cartes-de-paiement/mastercard-platinum.html"
+        ],
+        "pack bancaire bgl": [
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-essentiel.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-exclusif.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-jeune.html"
+        ],
+        "tarifs cartes bgl": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-tarifaire.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/moyens-de-paiement/bien-choisir-sa-carte/bien-choisir-sa-carte.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-des-tarifs-Pro-fr.pdf",
+            "https://www.bgl.lu/fr/documents-officiels/brochures-et-tarifs.html"
+        ],
+        "prêt à taux variable/fixe bgl": [
+            "https://www.bgl.lu/fr/particuliers/blog/immobilier/taux-fixe-variable-revisable.html",
+            "https://bgl.lu/fr/particuliers/projet-immo/pret-immobilier.html",
+            "https://bgl.lu/fr/particuliers/projet-immo/simulation.html",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/conditions-immo/Conditions-immo-FR.pdf"
+        ],
+        "ouvrir compte bgl non-résident": [
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/comment-ouvrir-compte-bancaire.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/demande-ouverture-compte.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-en-agence.html"
+        ],
+        "compte pro bgl": [
+            "https://www.bgl.lu/fr/entreprises/compte-pro.html",
+            "https://bgl.lu/fr/entreprises/independants.html",
+            "https://www.bgl.lu/fr/entreprises.html",
+            "https://bgl.lu/fr/entreprises/professions-liberales.html"
+        ],
+        "bgl propose-t-elle l’apple pay": [
+            "https://www.bgl.lu/fr/particuliers/paiements-mobiles/apple-pay.html",
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/paiements.html"
+        ],
+        "incident de paiement bgl": [
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/paiements.html",
+            "https://www.bgl.lu/fr/particuliers/securite-en-ligne/alerte-fraude.html",
+            "https://www.bgl.lu/fr/webbanking",
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/comptes.html"
+        ],
+        "compte mineur bgl": [
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/comment-ouvrir-compte-bancaire.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/compte-epargne-jeunes.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/compte-epargne-croissance.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-jeune.html"
+        ],
+        "bgl produits deductibles des impots": [
+            "https://www.bgl.lu/fr/particuliers/fiscalement-deductible.html",
+            "https://www.bgl.lu/fr/particuliers/fiscalement-deductible/guide-deductions-fiscales-luxembourg.html",
+            "https://www.bgl.lu/fr/particuliers/fiscalement-deductible/produits-fiscalement-deductibles.html"
+        ],
+        "profil investisseur bgl": [
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/gerer-mes-investissements.html",
+            "http://bgl.lu/fr/particuliers/investir/conseil-investissement-multi-assets.html",
+            "https://www.bgl.lu/fr/particuliers/investir/selection-de-fonds.html",
+            "https://www.bgl.lu/fr/particuliers/investir/investir-en-ligne.html",
+            "https://www.bgl.lu/fr/particuliers/investir/investir-en-ligne.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/faire-fructifier-epargne.html",
+            "https://bgl.lu/fr/particuliers/investir/epargne-programmee-en-ligne.html",
+            "https://bgl.lu/fr/particuliers/investir.html"
+        ],
+        "prêt travaux bgl": [
+            "https://www.bgl.lu/fr/particuliers/autres-projets/pret-travaux-au-luxembourg.html",
+            "https://www.bgl.lu/fr/particuliers/projet-renovation/pret-renovation-energetique.html",
+            "https://www.bgl.lu/fr/particuliers/projet-renovation.html",
+            "https://www.bgl.lu/fr/particuliers/autres-projets/pret-personnel.html",
+            "https://www.bgl.lu/fr/particuliers/projet-renovation/aides-renovation-energetique.html",
+            "https://www.bgl.lu/fr/particuliers/projet-renovation/accompagnement-renovation.html"
+        ],
+        "crédit auto bgl": [
+            "https://www.bgl.lu/fr/particuliers/projet-auto/credit-auto.html",
+            "https://www.bgl.lu/fr/particuliers/projet-auto.html",
+            "https://www.bgl.lu/fr/particuliers/projet-auto/private-lease-credit-auto.html",
+            "https://www.bgl.lu/fr/particuliers/projet-auto/acheter-une-voiture.html",
+            "https://www.bgl.lu/fr/particuliers/projet-auto/credit-voiture-electrique.html"
+        ],
+        "financement résidence principale bgl": [
+            "https://www.bgl.lu/fr/particuliers/projet-immo/premier-achat-immobilier.html",
+            "https://www.bgl.lu/fr/particuliers/projet-immo/pret-immobilier.html",
+            "https://www.bgl.lu/fr/particuliers/projet-immo/acheter-vendre-logement.html",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/guide-immo/brochure-guide-immo/Brochure-Guide-Pratique-Immobilier-FR.pdf",
+            "https://www.bgl.lu/fr/particuliers/blog/immobilier/aide-etat-achat-immobilier.html",
+            "https://bgl.lu/fr/particuliers/projet-immo/simulation.html"
+        ],
+        "activer luxtrust bgl": [
+            "https://bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/banque-au-quotidien/services-en-ligne/FR-guide-de-premiere-connexion.pdf",
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/luxtrust-mobile.html",
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/connexion.html"
+        ],
+        "virement instantané bgl": [
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/virement-instantane.html"
+        ],
+        "tarifs virements bgl ": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-tarifaire.pdf",
+            "https://www.bgl.lu/fr/documents-officiels/brochures-et-tarifs.html",
+            "https://www.bgl.lu/fr/documents-officiels/brochures-et-tarifs/changement-de-tarifs.html",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/fid/compte-courant-hors-essentiel/FID-Compte-courant-hors-Essentiel-FR.pdf"
+        ],
+        "solutions d'epargne bgl": [
+            "https://www.bgl.lu/fr/particuliers/epargner.html",
+            "https://www.bgl.lu/fr/particuliers/epargner.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/conseils-epargne.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/compte-epargne.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/faire-fructifier-epargne.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/epargne-programmee.html",
+            "https://www.bgl.lu/fr/particuliers/projet-immo/epargne-logement.html"
+        ],
+        "apple pay bgl": [
+            "https://www.bgl.lu/fr/particuliers/paiements-mobiles/apple-pay.html",
+            "https://www.bgl.lu/fr/particuliers/paiements-mobiles.html"
+        ],
+        "prêt vélo taux 0 bgl": [
+            "https://bgl.lu/fr/particuliers/comptes-bancaires/compte-bancaire-en-ligne.html"
+        ],
+        "carte platinum bgl avantages": [
+            "https://www.bgl.lu/fr/particuliers/cartes-de-paiement/mastercard-platinum.html",
+            "https://www.bgl.lu/fr/particuliers/cartes-de-paiement/assurance-ski-mastercard.html",
+            "https://bgl.lu/fr/particuliers/cartes-de-paiement/assurance-voyage-mastercard.html"
+        ],
+        "optipension bgl": [
+            "https://www.bgl.lu/fr/particuliers/assurances-vie/assurance-retraite-luxembourg.html"
+        ],
+        "direct invest clic bgl": [
+            "https://bgl.lu/fr/particuliers/investir/epargne-programmee-en-ligne.html"
+        ],
+        "optisave bgl": [
+            "https://www.bgl.lu/fr/particuliers/assurances-vie/assurance-vie-epargne.html"
+        ],
+        "contacter service client bgl": [
+            "https://www.bgl.lu/fr/particuliers/contact.html"
+        ],
+        "web banking bgl fonctionnalités": [
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/connexion.html",
+            "https://www.bgl.lu/fr/particuliers/services-en-ligne/web-banking/comptes.html",
+            "https://www.bgl.lu/fr/particuliers/comptes-bancaires/welcome-client.html"
+        ]
+    },
+    "en": {
+        "bgl student account": [
+            "https://www.bgl.lu/en/individuals/bank-account/young-bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/young-people-bank-account.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/youth-savings-account.html",
+            "https://www.bgl.lu/en/individuals/study-plans/student-loans-luxembourg.html"
+        ],
+        "bgl card limits": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/conditions-cartes/v-pay/Conditions-d-utilisation-V-PAY-EN.pdf",
+            "https://www.bgl.lu/en/individuals/payment-cards.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/credit-vs-debit.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/mastercard-platinum.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/visa-classic.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/visa-debit.html"
+        ],
+        "bgl banking package": [
+            "https://www.bgl.lu/en/individuals/bank-account/essential-bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/exclusive-bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/young-people-bank-account.html"
+        ],
+        "bgl card fees": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/moyens-de-paiement/bien-choisir-sa-carte/bien-choisir-sa-carte.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-des-tarifs-Pro-fr.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-tarifaire.pdf",
+            "https://www.bgl.lu/en/official-documents/rates.html"
+        ],
+        "bgl variable/fixed rate loan": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/conditions-immo/Conditions-immo-EN.pdf",
+            "https://www.bgl.lu/en/individuals/blog/real-estate-luxembourg/fixed-variable-or-adjustable-rate.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/mortgage-calculator.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/mortgage.html"
+        ],
+        "open bgl account non-resident": [
+            "https://www.bgl.lu/en/individuals/bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/How-do-I-open-a-bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/account-at-branch.html"
+        ],
+        "bgl professional account": [
+            "https://www.bgl.lu/en/companies.html",
+            "https://www.bgl.lu/en/companies/business-account.html",
+            "https://www.bgl.lu/en/companies/liberal-professions-luxembourg.html",
+            "https://www.bgl.lu/en/companies/self-employed.html"
+        ],
+        "does bgl offer apple pay": [
+            "https://www.bgl.lu/en/individuals/mobile-payments/apple-pay.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/payments.html"
+        ],
+        "bgl payment incident": [
+            "https://www.bgl.lu/en/individuals/online-services/remote-banking.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/accounts.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/payments.html",
+            "https://www.bgl.lu/en/individuals/securite-en-ligne/alerte-fraude.html"
+        ],
+        "bgl account for minors": [
+            "https://www.bgl.lu/en/individuals/bank-account/How-do-I-open-a-bank-account.html",
+            "https://www.bgl.lu/en/individuals/bank-account/young-people-bank-account.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/compte-epargne-croissance.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/youth-savings-account.html"
+        ],
+        "bgl tax deductible products": [
+            "https://www.bgl.lu/en/individuals/tax-deductible.html",
+            "https://www.bgl.lu/en/individuals/tax-deductible/tax-allowances-guide.html",
+            "https://www.bgl.lu/en/individuals/tax-deductible/tax-deductible-product.html"
+        ],
+        "bgl investor profile": [
+            "https://www.bgl.lu/en/individuals/investment-advices.html",
+            "https://www.bgl.lu/en/individuals/investment-advices/fund-selection.html",
+            "https://www.bgl.lu/en/individuals/investment-advices/invest-online.html",
+            "https://www.bgl.lu/en/individuals/investment-advices/multi-asset-investment-advice.html",
+            "https://www.bgl.lu/en/individuals/investment-advices/online-savings-plan.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/manage-my-investments.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/put-your-savings-to-work.html"
+        ],
+        "bgl home improvement loan": [
+            "https://www.bgl.lu/en/individuals/other-projects/personal-loans.html",
+            "https://www.bgl.lu/en/individuals/other-projects/renovation-loan.html",
+            "https://www.bgl.lu/en/individuals/renovation-project.html",
+            "https://www.bgl.lu/en/individuals/renovation-project/energy-retrofitting-loan.html",
+            "https://www.bgl.lu/en/individuals/renovation-project/energy-retrofitting-subsidies.html",
+            "https://www.bgl.lu/en/individuals/renovation-project/retrofitting-support.html"
+        ],
+        "bgl car loan": [
+            "https://www.bgl.lu/en/individuals/your-new-car.html",
+            "https://www.bgl.lu/en/individuals/your-new-car/buying-a-car.html",
+            "https://www.bgl.lu/en/individuals/your-new-car/car-loan.html",
+            "https://www.bgl.lu/en/individuals/your-new-car/green-mobility-loan.html",
+            "https://www.bgl.lu/en/individuals/your-new-car/loan-or-lease.html"
+        ],
+        "bgl primary residence financing": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/guide-immo/brochure-guide-immo/Brochure-Guide-Pratique-Immobilier-EN.pdf",
+            "https://www.bgl.lu/en/individuals/blog/real-estate-luxembourg/support-purchase-property.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/buy-sell-home.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/first-buyers.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/mortgage-calculator.html",
+            "https://www.bgl.lu/en/individuals/real-estate-project/mortgage.html"
+        ],
+        "activate luxtrust bgl": [
+            "https://bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/banque-au-quotidien/services-en-ligne/FR-guide-de-premiere-connexion.pdf",
+            "https://www.bgl.lu/en/individuals/online-services/luxtrust-mobile.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/login.html"
+        ],
+        "bgl instant transfer": [
+            "https://www.bgl.lu/en/individuals/online-services/instant-payment.html"
+        ],
+        "bgl savings solutions": [
+            "https://www.bgl.lu/en/individuals/real-estate-project/home-savings-scheme.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/put-your-savings-to-work.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/savings-account.html",
+            "https://www.bgl.lu/en/individuals/savings-solutions/savings-plan.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/conseils-epargne.html"
+        ],
+        "apple pay bgl": [
+            "https://www.bgl.lu/en/individuals/mobile-payments.html",
+            "https://www.bgl.lu/en/individuals/mobile-payments/apple-pay.html"
+        ],
+        "bgl 0% interest bike loan": [
+            "https://www.bgl.lu/en/individuals/bank-account/online-account.html"
+        ],
+        "bgl platinum card benefits": [
+            "https://www.bgl.lu/en/individuals/payment-cards/mastercard-platinum.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/ski-insurance-mastercard.html",
+            "https://www.bgl.lu/en/individuals/payment-cards/travel-insurance.html"
+        ],
+        "optipension bgl": [
+            "https://www.bgl.lu/en/individuals/life-insurances/pension-insurance.html"
+        ],
+        "direct invest clic bgl": [
+            "https://www.bgl.lu/en/individuals/investment-advices/online-savings-plan.html"
+        ],
+        "optisave bgl": [
+            "https://www.bgl.lu/en/individuals/life-insurances/life-insurance-savings.html"
+        ],
+        "contact bgl customer service": [
+            "https://www.bgl.lu/en/individuals/contact.html"
+        ],
+        "bgl web banking features": [
+            "https://www.bgl.lu/en/individuals/bank-account/welcome-client.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/accounts.html",
+            "https://www.bgl.lu/en/individuals/online-services/web-banking/login.html"
+        ]
+    },
+    "de": {
+        "BGL Studenten-Konto": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto/berufseinsteiger-bankkonto.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/junge-leute-bank-konto.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/sparkonto-junge-leute.html",
+            "https://www.bgl.lu/de/privatkunden/studium/studentenkredit-luxemburg.html"
+        ],
+        "BGL Kartenlimits": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/conditions-cartes/v-pay/Conditions-d-utilisation-V-PAY-DE.pdf",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/mastercard-platinum.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/unterschied-kreditkarte-debitkarte.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/visa-classic.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/visa-debit.html"
+        ],
+        "BGL Bankpaket": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto/essentiel-bank-konto.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/exklusiv-bank-konto.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/junge-leute-bank-konto.html"
+        ],
+        "BGL Kartengebühren": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/moyens-de-paiement/bien-choisir-sa-carte/bien-choisir-sa-carte.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-des-tarifs-Pro-fr.pdf",
+            "https://www.bgl.lu/content/dam/publicsite/pdf/documents-officiels/tarif/guide-des-tarifs/guide-tarifaire.pdf",
+            "https://www.bgl.lu/de/offizielle-dokumente/Tarife.html"
+        ],
+        "BGL Darlehen mit variablem/festem Zinssatz": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/conditions-immo/Conditions-immo-DE.pdf",
+            "https://www.bgl.lu/de/privatkunden/blog/immobilien-in-luxemburg/zins-fest-variabel-begrenzte-bindung.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/beispielrechnung.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/immobiliendarlehen.html"
+        ],
+        "BGL Konto für Nichtansässige eröffnen": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/konto-in-der-agentur.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/wie-eroffne-ich-ein-Bankkonto.html"
+        ],
+        "BGL Geschäftskonto": [
+            "https://www.bgl.lu/de/unternehmen.html",
+            "https://www.bgl.lu/de/unternehmen/freiberufler-luxemburg.html",
+            "https://www.bgl.lu/de/unternehmen/geschaeftskonto-in-luxemburg.html",
+            "https://www.bgl.lu/de/unternehmen/selbststandiger.html"
+        ],
+        "Bietet BGL Apple Pay an": [
+            "https://www.bgl.lu/de/privatkunden/mobiles-bezahlen/apple-pay.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/zahlungskarten.html"
+        ],
+        "BGL Zahlungsstörung": [
+            "https://www.bgl.lu/de/privatkunden/online-dienste/operations-bancaires-web-banking.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/konten.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/zahlungskarten.html",
+            "https://www.bgl.lu/de/privatkunden/securite-en-ligne/alerte-fraude.html"
+        ],
+        "BGL Konto für Minderjährige": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto/junge-leute-bank-konto.html",
+            "https://www.bgl.lu/de/privatkunden/bank-konto/wie-eroffne-ich-ein-Bankkonto.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/compte-epargne-croissance.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/sparkonto-junge-leute.html"
+        ],
+        "BGL steuerlich absetzbare Produkte": [
+            "https://www.bgl.lu/de/privatkunden/steuervorteile.html",
+            "https://www.bgl.lu/de/privatkunden/steuervorteile/leitfaden-steuerabzuege-luxemburg.html",
+            "https://www.bgl.lu/de/privatkunden/steuervorteile/produkte-mit-steuervorteilen.html"
+        ],
+        "BGL Anlegerprofil": [
+            "https://www.bgl.lu/de/privatkunden/anlegen.html",
+            "https://www.bgl.lu/de/privatkunden/anlegen/anlageberatung-multi-assets.html",
+            "https://www.bgl.lu/de/privatkunden/anlegen/fondsauswahl.html",
+            "https://www.bgl.lu/de/privatkunden/anlegen/online-anlegen.html",
+            "https://www.bgl.lu/de/privatkunden/anlegen/online-sparplan.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/anlagen-verwalten.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/faire-fructifier-epargne.html"
+        ],
+        "BGL Renovierungskredit": [
+            "https://www.bgl.lu/de/privatkunden/andere-projekte/modernisierungskredit-luxemburg.html",
+            "https://www.bgl.lu/de/privatkunden/andere-projekte/privatkredit.html",
+            "https://www.bgl.lu/de/privatkunden/renovierungsplaene.html",
+            "https://www.bgl.lu/de/privatkunden/renovierungsplaene/beihilfen-energetische-renovierung.html",
+            "https://www.bgl.lu/de/privatkunden/renovierungsplaene/betreuung-renovierung.html",
+            "https://www.bgl.lu/de/privatkunden/renovierungsplaene/renovierungskredit.html"
+        ],
+        "BGL Autokredit": [
+            "https://www.bgl.lu/de/privatkunden/autowunsch.html",
+            "https://www.bgl.lu/de/privatkunden/autowunsch/autokauf.html",
+            "https://www.bgl.lu/de/privatkunden/autowunsch/autokredit.html",
+            "https://www.bgl.lu/de/privatkunden/autowunsch/e-auto-kredit.html",
+            "https://www.bgl.lu/de/privatkunden/autowunsch/private-lease-autokredit.html"
+        ],
+        "BGL Finanzierung des Hauptwohnsitzes": [
+            "https://www.bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/financer-votre-projet/pr%C3%AAt-immo/guide-immo/brochure-guide-immo/Brochure-Guide-Pratique-Immobilier-DE.pdf",
+            "https://www.bgl.lu/de/privatkunden/blog/immobilien-in-luxemburg/staatliche-beihilfen-immobilienkauf.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/beispielrechnung.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/erster-immobilienkauf.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/immobiliendarlehen.html",
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/kauf-verkauf-immobilie.html"
+        ],
+        "Luxtrust BGL aktivieren": [
+            "https://bgl.lu/content/dam/publicsite/pdf/brochures/particuliers/banque-au-quotidien/services-en-ligne/FR-guide-de-premiere-connexion.pdf",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/luxtrust-mobile.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/zugang.html"
+        ],
+        "BGL Echtzeit-Überweisung": [
+            "https://www.bgl.lu/de/privatkunden/online-dienste/echtzeit-uberweisungen.html"
+        ],
+        "BGL Sparlösungen": [
+            "https://www.bgl.lu/de/privatkunden/immobilienprojekt/bausparvertrag.html",
+            "https://www.bgl.lu/de/privatkunden/sparen.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/ersparnisse-vermehren.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/faire-fructifier-epargne.html",
+            "https://www.bgl.lu/de/privatkunden/sparen/sparplan.html",
+            "https://www.bgl.lu/fr/particuliers/epargner/conseils-epargne.html"
+        ],
+        "Apple Pay BGL": [
+            "https://www.bgl.lu/de/privatkunden/mobiles-bezahlen.html",
+            "https://www.bgl.lu/de/privatkunden/mobiles-bezahlen/apple-pay.html"
+        ],
+        "BGL 0%-Zins-Fahrradkredit": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto/online-bank.html"
+        ],
+        "Vorteile der BGL Platinum-Karte": [
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/mastercard-platinum.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/ski-versicherung-mastercard.html",
+            "https://www.bgl.lu/de/privatkunden/zahlungskarten/versicherungsschutz-reisen.html"
+        ],
+        "OptiPension BGL": [
+            "https://www.bgl.lu/de/privatkunden/lebensversicherungen/rentenversicherung-luxemburg.html"
+        ],
+        "Direct Invest Clic BGL": [
+            "https://www.bgl.lu/de/privatkunden/anlegen/online-sparplan.html"
+        ],
+        "OptiSave BGL": [
+            "https://www.bgl.lu/de/privatkunden/lebensversicherungen/kapitallebensversicherung.html"
+        ],
+        "BGL Kundenservice kontaktieren": [
+            "https://www.bgl.lu/de/privatkunden/kontakt.html"
+        ],
+        "BGL Web-Banking-Funktionen": [
+            "https://www.bgl.lu/de/privatkunden/bank-konto/welcome-client.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/konten.html",
+            "https://www.bgl.lu/de/privatkunden/online-dienste/web-banking/zugang.html"
+        ]
+    }
+}
